@@ -1,0 +1,37 @@
+body{ 
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_container{ 
+    height: 80vh;
+}
+
+.head_img{ 
+    height:2em ;
+
+}
+
+.navbar{ 
+    font-size: .8em;
+}
+
+.icon_img{ 
+    height: 2.2em;
+}
+/* 1st row end */
+.watch_img{ 
+    height: 2.2em;
+}
+
+.get_button{ 
+    margin-left: 5em;
+}
+
+.woman_img{ 
+    height: 18em;
+    width: 22.9em;
+    
+}
